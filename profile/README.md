@@ -1,4 +1,4 @@
-## Blue & Read Team Operators
+## Blue & Red Team Operators
 
 
 **Here are some ideas to get you started:**
